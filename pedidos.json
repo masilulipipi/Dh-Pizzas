@@ -1,0 +1,66 @@
+[
+ {
+  "idPedido": 1,
+  "paraDelivery": true,
+  "direccion": "Monroe 860",
+  "nombreCliente": "Javi",
+  "telefonoCliente": "4535235235",
+  "gustoPizza": "Jamón y morrón",
+  "tamanioPizza": "Personal",
+  "conBebida": true,
+  "gustoBebida": "Fanta",
+  "clienteHabitual": true,
+  "empanadas": [
+   "Carne picante",
+   "Carne cortada a cuchillo",
+   "Jamon y muzzarela"
+  ],
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "8:38:40 PM",
+  "totalPedido": 514.1,
+  "descuento": 3
+ },
+ {
+  "idPedido": 2,
+  "paraDelivery": false,
+  "nombreCliente": "Lando",
+  "telefonoCliente": "23423423",
+  "gustoPizza": "Calabresa",
+  "tamanioPizza": "Mediana",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "8:39:05 PM",
+  "totalPedido": 560,
+  "descuento": 0
+ },
+ {
+  "idPedido": 3,
+  "paraDelivery": true,
+  "direccion": "Monroe 860",
+  "nombreCliente": "Beto",
+  "telefonoCliente": "242342342342",
+  "gustoPizza": "Muzzarella",
+  "tamanioPizza": "Grande",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "8:44:07 PM",
+  "totalPedido": 670,
+  "descuento": 0
+ },
+ {
+  "idPedido": 4,
+  "paraDelivery": false,
+  "nombreCliente": "mmmm",
+  "telefonoCliente": "23332",
+  "gustoPizza": "Muzzarella",
+  "tamanioPizza": "Grande",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fechaDelPedido": "2019-11-1",
+  "horaDelPedido": "11:24:13 PM",
+  "totalPedido": 650,
+  "descuento": 0
+ }
+]
